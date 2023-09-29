@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Script to test iterations
+for (( i=0; i<10; i++ )) 
+do
+  echo "Best School"
+done
